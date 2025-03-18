@@ -20,7 +20,7 @@ Este projeto foi criado com o objetivo de demonstrar minhas habilidades em desen
 
 ## 🔗 Acesse o Portfólio
 
-Você pode visualizar o projeto acessando: [[SEU LINK AQUI](https://vercel.com/felippechavantes-projects/portifolio)]
+Você pode visualizar o projeto acessando: [[LINK AQUI](https://portifolio-puce-six-30.vercel.app/)]
 
 ## 📸 Preview
 
